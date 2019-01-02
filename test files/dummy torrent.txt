@@ -1,0 +1,5 @@
+localhost
+90
+testFile.txt
+8
+list of hashes
